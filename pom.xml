@@ -9,7 +9,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 <relativePath/> <!-- lookup parent from repository -->
 </parent>
 <groupId>com.example</groupId>
-<artifactId>Tryagain</artifactId>
+<artifactId>productcasestudy</artifactId>
 <version>0.0.2-SNAPSHOT</version>
 <packaging>war</packaging>
 <name>productcasestudy</name>
